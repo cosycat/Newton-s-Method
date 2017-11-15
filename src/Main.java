@@ -1,6 +1,10 @@
 
 public class Main {
 	
+	/**
+	 * Example usage of {@link Newton#run}.
+	 * @param args not used.
+	 */
 	public static void main(String[] args) {
 		
 		
